@@ -1,5 +1,4 @@
 #/bin/bash
-clear
 root="/c/temp/" # where are the files and directories
 svol="/.snapshots/" # where are the subvols
 n=30 #anzahl zu erhaltener snapshots
